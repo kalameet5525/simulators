@@ -1,0 +1,2 @@
+# simulators
+fgo gacha test
